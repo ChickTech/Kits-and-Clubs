@@ -2,11 +2,11 @@
 
 Welcome to ChickTech’s Rural School Kits and After-School Clubs Project!
 
-WHO IS CHICKTECH?
+WHO IS [CHICKTECH](https://chicktech.org/)?
 
 We are a national nonprofit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers.  
 
- Through After-School Clubs and School Kits, ChickTech will provide girls and teachers from across the country, no matter where they are located, with national community support, resources and materials, and a network of partnerships to help girls excel in and out of the classroom on their path to tech.
+ Through After-School Clubs and School Kits, ChickTech will provide girls and teachers from across the country, no matter where they are located, with national community support, resources and materials, and a network of partnerships to help girls excel in and out of the classroom on their path to tech.  Be sure to check out our [Code of Conduct](https://github.com/ChickTech/Kits-and-Clubs/blob/master/CODE_OF_CONDUCT.md) for more info on what we expect of ourselves and contributors.
 
 WHAT ARE WE DOING?
 
@@ -31,10 +31,14 @@ Through ChickTech Clubs and Kits,  local leaders have the opportunity to become 
 
 
 HOW DO I GET INVOLVED?
-Read the CONTRIBUTING.MD to get involved!
-You can also email us at info@chicktech.org or katie.sanfilippo@chicktech.org  for more info.
+Read the [CONTRIBUTING.MD](https://github.com/ChickTech/Kits-and-Clubs/blob/master/Contributing.md) to get involved!
+You can also email us at [info@chicktech.org](info@chicktech.org) or [katie.sanfilippo@chicktech.org](katie.sanfilippo@chicktech.org)  for more info.
 
 WHAT IS NEEDED THE MOST?
-Through our Rural Program expansion, we hope to make it easy for people to connect and become part of our community while increasing access to easy-to-use resources/materials that can be replicated in and out of school programs across the country!
+Through our Rural Program expansion, we hope to make it easy for people to connect and become part of our community while increasing access to easy-to-use resources/materials that can be replicated in and out of school programs across the country! Take a look at our Timeline (ADD LINK) to see our goals for this project.
+
+Platform Development (ADD LINK)
+
+Curricula/Resource Support (ADD LINK TO FOLDER)
 
 We need to develop a platform for easy communication, sharing, and support for all community members no matter where they live or what kind of internet access they have.  There are educators and chapters in need of curriculum for their programs - help them help girls in their area by working on tailoring existing curriculum.
