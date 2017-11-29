@@ -1,17 +1,20 @@
-Contributing to ChickTech School Kits and Clubs!
+## Contributing to ChickTech School Kits and Clubs!
 
-This is a DRAFT file.  Updates can also be found [here](https://docs.google.com/document/d/1Bc_G5qWdX8DPIrOyLwAEqspExM6VsD9_l62YZnruIsQ/edit)
+## This is a DRAFT file.  Updates can also be found [here](https://docs.google.com/document/d/1Bc_G5qWdX8DPIrOyLwAEqspExM6VsD9_l62YZnruIsQ/edit)
 
 Welcome to our open project in building community and support for girls to learn and get excited about tech!   
 
 Thank you for your interest in contributing to School Kits and Clubs 🎉!
-Our vision for this project is to work with collaborators to build curricula and resources for school kits/clubs so students and teachers in rural, underserved, and underrepresented areas can access and learn skills in tech.
+
+## Vision
+Our vision for this project is to work with collaborators to build curricula, resources, and community for school kits/clubs so students and teachers in rural, underserved, and underrepresented areas can access and learn skills in tech.
 
 School Kits/Clubs is an open project to bring expertise from all over the globe in creating diverse and inclusive support for schools in rural and developing areas.
 Check out this document to see how you may contribute to this project and how to get started!
 
 This documents is a set of guidelines for contributing to School Kits/Clubs on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-If your guide is long, consider adding a table of contents.
+
+## Table of Contents (TBD)
 
 Participation guidelines
 What we're working on
@@ -20,17 +23,20 @@ How to report bugs
 Communication channels
 Participation guidelines
 
-This project adheres to a code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](https://github.com/ChickTech/Kits-and-Clubs/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@chicktech.org](info@chicktech.org).
 
-What we're working on
+## What we're working on
 
-[Roadmap](https://docs.google.com/document/d/1UOtk1Xzvo6TjWAaQy4njqkJ3-Pv-7N6jWB_13E79pGI/edit), GitHub Milestones, or Projects so newcomers can see what you're working on.
+[Roadmap](https://docs.google.com/document/d/1UOtk1Xzvo6TjWAaQy4njqkJ3-Pv-7N6jWB_13E79pGI/edit) 
+
+Curricula Revision
 Add Links to Curricula
-Discussion Forum Info
+
+Building Community through Community Platforms
 
 Take a look at the issues in our current milestone or browse some good first bugs to get started!
 
-How to submit changes
+## How to submit changes
 
 To propose changes to the project, make comments in the attached docs above. 
 
@@ -38,9 +44,9 @@ Once you've identified one of the issues above that you feel you can contribute 
 Fork this repository. This makes your own version of this project you can edit and use.
 Make your changes! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 Submit a pull request. This opens a discussion around your project and lets the project lead know you are proposing changes.
-First time contributing to open source? Check out this free series, How to Contribute to an Open Source Project on GitHub.
+First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
-How to report bugs
+## How to report bugs
 
 Please stay on the lookout for any potential issues that may cause problems with the curricula or discussion forum.  This could be content omissions or copy errors or issues with the design and functionality of the discussion forum.
 
@@ -48,7 +54,7 @@ We invite all contributors to report bugs, so "debugging" or fixing problems hap
 
 Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
-Communication channels
+## Communication channels
 
 Slack [LINK]
 Email List - Email [Katie](katie.sanfilippo@chicktech.org) to be added

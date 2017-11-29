@@ -2,7 +2,7 @@
 
 Welcome to **ChickTech**’s Rural School Kits and After-School Clubs Project!
 
-## WHO IS CHICKTECH?
+## WHO IS [CHICKTECH](https://chicktech.org/)?
 
 We are a national nonprofit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers.  
 
@@ -31,14 +31,18 @@ Ideas for the kits currently include *(open to suggestions!)*:
 
 Through **ChickTech** Clubs and Kits,  local leaders have the opportunity to become part of the nationwide **ChickTech** community and access resources to empower girls and help spark their confidence and awareness of tech careers.
 
-
 ## HOW DO I GET INVOLVED?
 
-Read the [contributing](Contributing.md) to get involved!
+Read the [CONTRIBUTING.MD](https://github.com/ChickTech/Kits-and-Clubs/blob/master/Contributing.md) to get involved!
 You can also email us at [info@chicktech.org](info@chicktech.org) or [katie.sanfilippo@chicktech.org](katie.sanfilippo@chicktech.org)  for more info.
 
 ## WHAT IS NEEDED THE MOST?
 
 Through our Rural Program expansion, we hope to make it easy for people to connect and become part of our community while increasing access to easy-to-use resources/materials that can be replicated in and out of school programs across the country!
+
+Platform Development (ADD LINK)
+
+Curricula/Resource Support (ADD LINK TO FOLDER)
+
 
 We need to develop a platform for easy communication, sharing, and support for all community members no matter where they live or what kind of internet access they have.  There are educators and chapters in need of curriculum for their programs - help them help girls in their area by working on tailoring existing curriculum.
