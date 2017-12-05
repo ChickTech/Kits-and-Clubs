@@ -1,10 +1,12 @@
-## This is a DRAFT file.  Updates can also be found [here](https://docs.google.com/document/d/1Bc_G5qWdX8DPIrOyLwAEqspExM6VsD9_l62YZnruIsQ/edit)
-
 ## Welcome to the ChickTech School Kits and Clubs Open Project!
 
 Our open project in focused on building community and support for girls to learn and get excited about tech! Thank you for your interest in contributing to School Kits and Clubs 🎉!
 
-## Table of Contents (TBD) - Need help in making this an actual ToC...eek
+Updates to the Contributing.md can also be found [here](https://docs.google.com/document/d/1Bc_G5qWdX8DPIrOyLwAEqspExM6VsD9_l62YZnruIsQ/edit)
+
+## Table of Contents (TBD) 
+
+Need help in making this an actual ToC...eek
 
 Vision
 Participation guidelines
