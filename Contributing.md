@@ -114,6 +114,7 @@ If you have trouble accessing a file, email [Katie](katie.sanfilippo@chicktech.o
 
 ## New to G-Suite? 
 Read the How-To’s for a quick and easy start
+
 [Get Started with Google Docs](https://gsuite.google.com/learning-center/products/docs/get-started/)
 
 [Get Started with Google Sheets](https://gsuite.google.com/learning-center/products/sheets/get-started/)
