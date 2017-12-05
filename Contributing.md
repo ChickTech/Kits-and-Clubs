@@ -49,22 +49,22 @@ As project lead, Katie is working with a team to further develop our rural progr
 
 ## What we're working on and how to get started
 
-## Contributing on Projects
+### Contributing on Projects
 The ChickTech Clubs/Kits project has two contributing teams - Curricula Revision and Community Forum Creation.  Check out below for info on each and let’s get started!
 
-## Curriculum Revision
+### Curriculum Revision
 ChickTech's current curriculum is based on a 10-hour workshop model.  We need to tailor this to meet the needs of School Clubs and other educators with different schedules.  While we are at it, let's make sure the curriculum is fully inclusive so accommodations are listed for students with different abilities, lack of reliable internet in the classroom, teachers with little to no tech background, etc! Have more ideas? Start contributing on the Curricula Revision!!! 
 
 For more details: View the [Curricula Contributing.md](https://docs.google.com/document/d/1wW-mWtxwgFaqc-d-cMUlkLY0fG_w42Rw1fBX9sNjlH4/edit)
 
-## Community Forum
+### Community Forum
 The community forum will be a virtual gathering place for educators, ChickTech community members, and students to connect, share resources, and support each other in making tech-education accessible for all. We need your suggestions in tools to use, your expertise in creating the forum, and your feedback to make it fully inclusive! Learn how to get started with the [Community Forum Creation Contributing.md](https://docs.google.com/document/d/1DIjwmAyLnzvcTL1yaQaPsJ2LCXMSuYPdNDdEgDFh3a0/edit)
 
 ## Working on Github
 
 Take a look at the issues in our current milestone or browse some good first bugs to get started!
 
-## How to submit changes
+### How to submit changes
 
 Through this project, we will mostly be using Google Docs and Sheets to comment, suggest, and create new files. 
 
@@ -80,10 +80,10 @@ If you have suggestions on fully utilizing Github for this project or changes to
 
 4. Submit a pull request. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
-## First time contributing to open source? 
+### First time contributing to open source? 
 Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
+### How to report bugs
 
 Please stay on the lookout for any potential issues that may cause problems with the project.  This could be content omissions or copy errors or issues with the design and functionality of any attached resources or Git formatting.
 
@@ -93,20 +93,20 @@ Notice a mistake? Please file any bugs, requests, or questions in our issue trac
 
 ## Communication channels
 
-## Slack
+### Slack
 Stay Tuned!
 
-## Email Lists
+### Email Lists
 To keep communication flowing across the teams, we will send updates and meeting times via email.  If you want to stay updated on the project (with an option to join the ChickTech mailing list), add your email [HERE](https://docs.google.com/spreadsheets/d/1YI20s-z5kskq9RlaGXmsV60cJnHFvumHS-N4sa353Qo/edit#gid=0).  
 
-## Monthly Calls
+### Monthly Calls
 Meetings with be set two times per month (one evening/one morning to work across time zones) for teams to connect, provide updates, and check in on plans moving forward.
 Meeting Minutes will be LINKED here once we get started.
 
-## Community Forum (COMING SOON!!!) 
+### Community Forum (COMING SOON!!!) 
 You guessed it! An integral piece to this first stage of the project is to create a discussion forum for individuals to connect, whether curricula writers, developers, teachers, or students - the discussion forum will be a place for people to connect, share resources, and build community no matter location.  We need your help to get this started. Check out the [Community Forum Contributing.md](https://docs.google.com/document/d/1DIjwmAyLnzvcTL1yaQaPsJ2LCXMSuYPdNDdEgDFh3a0/edit) to contribute to this project.
 
-## Google Docs
+### Google Docs
 For this project, all curricula, how-to’s, templates will be created and edited through Google Docs. 
 
 Commenting - Docs will have settings set to Commenting for files across the project.  Through this, add comments and suggestions and tag others to bring issues to their attention.
@@ -115,7 +115,7 @@ Suggesting - Once you are on a curriculum team working you will be given Editing
 
 If you have trouble accessing a file, email [Katie](katie.sanfilippo@chicktech.org) for help.
 
-## New to G-Suite? 
+#### New to G-Suite? 
 Read the How-To’s for a quick and easy start
 
 [Get Started with Google Docs](https://gsuite.google.com/learning-center/products/docs/get-started/)
