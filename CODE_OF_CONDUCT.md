@@ -2,6 +2,8 @@
 
 View the [ChickTech Org Code of Conduct](https://docs.google.com/document/d/1K_w-xWPtAkxqrPkaynljKEx8HBnEZDJ17fA3fufhTVQ/edit#heading=h.gjdgxs)
 
+To add to the Project's Contributor Expecations Comment [HERE](https://docs.google.com/document/d/1UDYpgpEQzi7Ok3DOO-JKMLbzjbtTj0lob0vZtw2RZ88/edit)
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
