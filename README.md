@@ -40,9 +40,9 @@ You can also email us at [info@chicktech.org](info@chicktech.org) or [katie.sanf
 
 Through our Rural Program expansion, we hope to make it easy for people to connect and become part of our community while increasing access to easy-to-use resources/materials that can be replicated in and out of school programs across the country!
 
-Platform Development (ADD LINK)
+[Community Platform Development](https://github.com/ChickTech/Kits-and-Clubs/tree/master/Platform%20Development)
 
-Curricula/Resource Support (ADD LINK TO FOLDER)
+[Curricula Revision](https://github.com/ChickTech/Kits-and-Clubs/tree/master/Curricula)
 
+[Kit Resource Contributions](https://github.com/ChickTech/Kits-and-Clubs/tree/master/Resource%20Guides)
 
-We need to develop a platform for easy communication, sharing, and support for all community members no matter where they live or what kind of internet access they have.  There are educators and chapters in need of curriculum for their programs - help them help girls in their area by working on tailoring existing curriculum.
