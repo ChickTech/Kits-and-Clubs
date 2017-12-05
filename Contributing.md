@@ -42,6 +42,7 @@ As project lead, Katie is working with a team to further develop our rural progr
 
 ## Resources
 [README](https://docs.google.com/document/d/1OlbuIs9RBglZTQJv6NXztY_SuRYpL-05wiAjextvGiQ/edit): Gives an overview of the project, who we are, and why we do what we do.
+
 [PROJECT ROADMAP](https://docs.google.com/document/d/1UOtk1Xzvo6TjWAaQy4njqkJ3-Pv-7N6jWB_13E79pGI/edit): Timeline of the School Kits and Clubs Project
 
 ## What we're working on and how to get started
