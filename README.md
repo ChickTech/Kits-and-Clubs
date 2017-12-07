@@ -8,6 +8,8 @@ We are a national nonprofit dedicated to retaining women in the technology workf
 
 Through After-School Clubs and School Kits, **ChickTech** will provide girls and teachers from across the country, no matter where they are located, with national community support, resources and materials, and a network of partnerships to help girls excel in and out of the classroom on their path to tech.
 
+A big THANK YOU to the [Mozilla Open Leaders Program](https://mozilla.github.io/leadership-training/) for support in building the open project, and partners in our rural initiatives, [TechGirlz](http://www.techgirlz.org/), and [CSTA](https://www.csteachers.org/)!
+
 ## WHAT ARE WE DOING?
 
 ### ChickTech After-School Clubs
